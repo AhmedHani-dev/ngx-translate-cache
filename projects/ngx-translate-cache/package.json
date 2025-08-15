@@ -1,6 +1,6 @@
 {
   "name": "ngx-translate-cache-2",
-  "version": "19.0.0",
+  "version": "19.0.1",
   "description": "ngx-translate extension to facilitate language cache for angular v18 and onwards.",
   "repository": {
     "type": "git",
