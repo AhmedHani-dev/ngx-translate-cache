@@ -7,6 +7,7 @@ Forked from: https://github.com/jgpacheco/ngx-translate-cache. The latest origin
 | Angular version | `ngx-translate-cache-2` version |
 |:---------------:|:---------------:|
 |        18       |      ^18.0.0    |
+|        19       |      ^19.0.0    |
 
 Parent project library [(ngx-translate-cache)](https://www.npmjs.com/package/ngx-translate-cache/)
 
